@@ -1,0 +1,13 @@
+numpy==1.9.1
+scipy==0.15.1
+matplotlib==1.4.3
+basemap==1.0.7
+ipython[all]==2.4.1
+netCDF4==1.1.4.1
+urllib3==1.10.1
+python-magic==0.4.6
+DateTime==4.0.1
+Cython==0.22
+Cartopy==0.11.0
+Shapely==1.5.6
+pyshp==1.2.1
