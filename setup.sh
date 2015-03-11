@@ -2,7 +2,7 @@
 
 
 virtualenv venv
-source venv/bin/activate
+. venv/bin/activate
 
 while read line; do
     pip install $line
