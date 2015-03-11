@@ -1,4 +1,6 @@
-<img source="slides/intro/pics_template/c2sm_3.png" alt="c2sm logo />
+<div>
+<img source="slides/intro/pics_template/c2sm_3.png" alt="c2sm logo" />
+</div>
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
