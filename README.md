@@ -5,8 +5,9 @@
 ![c2sm logo](/slides/intro/pics_template/c2sm_3.png)
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
-> Harald von Waldow ` hvwaldow@env.ethz.ch`
-> Bas Crezee
+
+> Harald von Waldow ` hvwaldow@env.ethz.ch`<br>
+> Bas Crezee<br>
 > Nicolas Piaget
 
 [**How to use it - Instructors**](#instructors)<br>
