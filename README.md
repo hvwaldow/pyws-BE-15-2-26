@@ -82,7 +82,7 @@ that is a python-interpreter and all necessary library packages inside
 projects and makes you independent of the system - Python
 installation.  The virtual environment will take up about 350 MB. The
 only requirement for this to work is that you already have any (well,
->=2.6) version of Python installed system-wide that includes the
+\>=2.6) version of Python installed system-wide that includes the
 [`virtualenv`](https://virtualenv.pypa.io/en/latest/) package. This is
 the case for all stock Linux distributions.
 
