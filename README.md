@@ -1,6 +1,8 @@
-<div>
-<img source="C2SM/pyws-BE-15-2-26/slides/intro/pics_template/c2sm_3.png" alt="c2sm logo" />
-</div>
+<!-- <div> -->
+<!-- <img source="C2SM/pyws-BE-15-2-26/slides/intro/pics_template/c2sm_3.png" alt="c2sm logo" /> -->
+<!-- </div> -->
+
+![/slides/intro/pics_template/c2sm_3.png](c2sm logo)
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
