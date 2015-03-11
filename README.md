@@ -78,7 +78,11 @@ you want (\<pyws-directory\>) in the following.
 **Users of UNIXy system such as Linux or OS X**<br>
 execute the setup script:
 
-~~~bash cd <pyws-directory> chmod u+x setup.sh; ./setup.sh ~~~
+~~~bash
+cd <pyws-directory>
+chmod u+x setup.sh
+./setup.sh
+~~~
 
 This will create (download, compile, install) a "virtual environment",
 that is a python-interpreter and all necessary library packages inside
