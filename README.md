@@ -69,7 +69,8 @@ you want (\<pyws-directory\>) in the following.
 
 #### 2. Installation of Python modules and start IPython Notebook
 
-**Users of UNIXy system such as Linux or OS X** execute the setup script:
+**Users of UNIXy system such as Linux or OS X**<br>
+execute the setup script:
 
 ~~~bash
 cd <pyws-directory>
@@ -102,7 +103,8 @@ ipython notebook --pylab=inline
 
 Enjoy!
 
-**If you are stuck with Windows**, or other problem with above method arise, or just to try it out,
+**If you are stuck with Windows**,<br>
+or other problem with above method arise, or just to try it out,
 the easiest way is maybe to install a huge all-and-everything Python distribution, e.g. Anaconda:
 http://continuum.io/downloads
 
