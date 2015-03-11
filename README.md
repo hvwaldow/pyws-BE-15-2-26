@@ -8,8 +8,8 @@
 
 ## Format
 
-The lectures mostly consist of Ipython Notebooks. There is an "Intro"
-slidedeck and one related to Exercise 3 in the folder "slides".
+The lectures mostly consist of IPython Notebooks. There is an "Intro"
+slide-deck and one related to Exercise 3 in the folder "slides".
 
 ## Audience
 
@@ -51,7 +51,7 @@ individually (or have them do the setup) as explained in
 
 We found that the material provided by
 [Software Carpentry](http://software-carpentry.org) is an extremely
-useful ressource, in particular when it comes to workshop organization
+useful resource, in particular when it comes to workshop organization
 and teaching skills.
 
 ### Learners
@@ -93,7 +93,7 @@ only requirement for this to work is that you already have any (well,
 \>=2.6) version of Python installed system-wide that includes the
 [`virtualenv`](https://virtualenv.pypa.io/en/latest/) package. Also
 building the necessary modules requires your system to have the
-build-toolchain (such as compilers) installed. This should be no issue
+build-tool-chain (such as compilers) installed. This should be no issue
 for all stock Linux distributions.
 
 Activate the virtual environment:
@@ -101,8 +101,6 @@ Activate the virtual environment:
 ~~~
 source venv/bin/activate
 ~~~
-
-(from inside the directory \<pyws-directory\>)
 
 Start the notebook:
 
@@ -114,7 +112,7 @@ Enjoy!
 
 **If you are stuck with Windows**,<br>
 or other problems with above method arise, or just to try it out,
-the easiest way is maybe to install a huge all-and-everything Python distribution, e.g. Anaconda:
+the easiest way is maybe to install a huge all-and-everything Python distribution, e.g., Anaconda:
 http://continuum.io/downloads
 
 Then open the "Anaconda Command Prompt" and install four additional
