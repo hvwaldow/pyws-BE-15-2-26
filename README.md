@@ -3,7 +3,7 @@
 
 [**How to use it - Instructors**](#instructors)<br>
 [**How to use it - Learners**](#learners)<br>
-[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material) | [License](#license)
+[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material) | [Feedback](#feedback) | [License](#license)
 
 
 ## Format
