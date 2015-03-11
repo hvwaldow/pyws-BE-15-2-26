@@ -130,7 +130,7 @@ Have fun!
 
 ## Feedback
 
-I would be very happy to hear from you (<harald.vonwaldow@env.ethz.ch>)
+I would be very happy to hear from you (mail to <harald.vonwaldow@env.ethz.ch>)
 in case you give this course a chance, be it as an instructor (who
 maybe mixes parts of this workshop with her own material), as a
 learner who attended one of our workshops, or as independent learner
