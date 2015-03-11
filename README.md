@@ -1,5 +1,7 @@
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
+[How to use it - Instructors](#instructors) 
+[How to use it - Learners](#learners)
 ## Format
 
 The lectures mostly consist of Ipython Notebooks. There is an "Intro"
