@@ -3,11 +3,9 @@
 <!-- </div> -->
 
 ![c2sm logo](/slides/intro/pics_template/c2sm_3.png)
-<p align='center'>
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
-<p >
 <p align='center'> Harald von Waldow ` hvwaldow@env.ethz.ch` | Bas Crezee | Nicolas Piaget</p>
 
 [**How to use it - Instructors**](#instructors)<br>
