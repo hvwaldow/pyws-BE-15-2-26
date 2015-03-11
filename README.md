@@ -128,5 +128,15 @@ Launch the "Anaconda Ipython Notebook" and navigate to the exercises.
 
 Have fun!
 
+## Feedback
+
+I would be very [happy to hear](mailto:harald.vonwaldow@env.ethz.ch)
+from you in case you give this course a chance, be it as an instructor
+(who maybe mixes parts of this workshop with her own material), as a
+learner who attended one of our workshops, or as independent learner
+who uses this material for self-study.
+
+Particularly welcome are problem reports, errors, criticism.
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The material in this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
