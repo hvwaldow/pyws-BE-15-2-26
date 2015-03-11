@@ -104,15 +104,18 @@ ipython notebook --pylab=inline
 Enjoy!
 
 **If you are stuck with Windows**,<br>
-or other problem with above method arise, or just to try it out,
+or other problems with above method arise, or just to try it out,
 the easiest way is maybe to install a huge all-and-everything Python distribution, e.g. Anaconda:
 http://continuum.io/downloads
 
 Then open the "Anaconda Command Prompt" and install three additional
 packages:
+
+~~~bash
 pip install DateTime
 pip install urllib3
 pip install Cartopy
+~~~
 
 Launch the "Anaconda Ipython Notebook" and navigate to the exercises.
 
