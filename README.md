@@ -58,7 +58,7 @@ and teaching skills.
 
 #### 1. Download
 
-Either
+**Either**
 
 ~~~~bash
 git clone https://github.com/C2SM/pyws-BE-15-2-26.git <pyws-directory>
@@ -67,7 +67,7 @@ git clone https://github.com/C2SM/pyws-BE-15-2-26.git <pyws-directory>
 in case you are familiar with the command line and have
 [git](http://git-scm.com/downloads) installed.
 
-Otherwise download the
+**Otherwise** download the
 [zip-archive](https://github.com/C2SM/pyws-BE-15-2-26/archive/master.zip)
 and unpack. This will yield a directory `pyws-15-2-26-master`, that
 contains everything. Feel free to rename that directory to anything
