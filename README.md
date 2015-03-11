@@ -12,6 +12,7 @@
 [**How to use it - Learners**](#learners)<br>
 [Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material) | [Feedback](#feedback) | [License](#license)
 
+<hr />
 
 ## Format
 
