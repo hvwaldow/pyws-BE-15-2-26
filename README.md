@@ -65,7 +65,7 @@ Otherwise download the
 [zip-archive](https://github.com/C2SM/pyws-BE-15-2-26/archive/master.zip)
 and unpack. This will yield a directory `pyws-15-2-26-master`, that
 contains everything. Feel free to rename that directory to anything
-you want (<pyws-directory>) in the following.
+you want (\<pyws-directory\>) in the following.
 
 #### 2. Installation of Python modules and start IPython Notebook
 
@@ -92,7 +92,7 @@ Activate the virtual environment:
 source venv/bin/activate
 ~~~
 
-(from inside the directory <pyws-directory>)
+(from inside the directory \<pyws-directory\>)
 
 Start the notebook:
 
