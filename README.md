@@ -1,8 +1,9 @@
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
 
-[How to use it - Instructors](#instructors) | [How to use it - Learners](#learners)<br>
-[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material)
+[**How to use it - Instructors**](#instructors) | [**How to use it - Learners**](#learners)<br>
+[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material)<br>
+[License](#license)
 
 
 ## Format
@@ -127,5 +128,5 @@ Launch the "Anaconda Ipython Notebook" and navigate to the exercises.
 
 Have fun!
 
-# Licensing
+# License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The material in this repository is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
