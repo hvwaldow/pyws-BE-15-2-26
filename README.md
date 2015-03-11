@@ -5,7 +5,9 @@
 ![c2sm logo](/slides/intro/pics_template/c2sm_3.png)
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
-
+> Harald von Waldow ` hvwaldow@env.ethz.ch` 
+> Bas Crezee
+> Nicolas Piaget
 
 [**How to use it - Instructors**](#instructors)<br>
 [**How to use it - Learners**](#learners)<br>
@@ -137,7 +139,7 @@ Have fun!
 
 ## Feedback
 
-I would be very happy to hear from you (mail to <harald.vonwaldow@env.ethz.ch>)
+I would be very happy to hear from you (mail to <hvwaldow@env.ethz.ch>)
 in case you give this course a chance, be it as an instructor (who
 maybe mixes parts of this workshop with her own material), as a
 learner who attended one of our workshops, or as independent learner
