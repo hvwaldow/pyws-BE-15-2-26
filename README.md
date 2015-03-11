@@ -108,13 +108,14 @@ or other problems with above method arise, or just to try it out,
 the easiest way is maybe to install a huge all-and-everything Python distribution, e.g. Anaconda:
 http://continuum.io/downloads
 
-Then open the "Anaconda Command Prompt" and install three additional
+Then open the "Anaconda Command Prompt" and install four additional
 packages:
 
 ~~~bash
 pip install DateTime
 pip install urllib3
 pip install Cartopy
+pip install cdo
 ~~~
 
 Launch the "Anaconda Ipython Notebook" and navigate to the exercises.
