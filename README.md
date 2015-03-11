@@ -6,7 +6,7 @@
 
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
-<p align='center'> Harald von Waldow `hvwaldow@env.ethz.ch` | Bas Crezee | Nicolas Piaget</p>
+<p align='center'> Harald von Waldow &lt;hvwaldow@env.ethz.ch&gt; | Bas Crezee | Nicolas Piaget</p>
 
 [**How to use it - Instructors**](#instructors)<br>
 [**How to use it - Learners**](#learners)<br>
