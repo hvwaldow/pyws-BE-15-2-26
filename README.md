@@ -1,9 +1,9 @@
 # Scientific Programming in Python for Atmospheric Sciences and Climatology
 
 
-[**How to use it - Instructors**](#instructors) | [**How to use it - Learners**](#learners)<br>
-[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material)<br>
-[License](#license)
+[**How to use it - Instructors**](#instructors)<br>
+[**How to use it - Learners**](#learners)<br>
+[Format](#format) | [Audience](#audience) | [Duration](#duration) | [Bonus Material](#bonus-material) | [License](#license)
 
 
 ## Format
