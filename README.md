@@ -101,7 +101,7 @@ only requirement for this to work is that you already have any (well,
 \>=2.6) version of Python installed system-wide that includes the
 [`virtualenv`](https://virtualenv.pypa.io/en/latest/) package. Also
 building the necessary modules requires your system to have the
-build-tool-chain (such as compilers) installed. This should be no issue
+build-tool-chain (compilers, etc.) installed. This should be no issue
 for all stock Linux distributions.
 
 Activate the virtual environment:
