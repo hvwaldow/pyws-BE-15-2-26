@@ -83,7 +83,49 @@ you want (\<pyws-directory\>) in the following.
 
 #### 2. Installation of Python modules and start IPython Notebook
 
-**Users of UNIXy system such as Linux or OS X**<br>
+**These recommendations were changed (2015-04-13).** Realizing the
+difficulties that might arise due to interactions of system - Python
+and workshop - Python -- even if using a _virtualenvironment_, **we
+now recommend for all OS (Windows, OS X, Linux) the _Anaconda_ Python
+distribution.** Next to a quick setup to work with the tutorial
+material, this also provides you with a very comprehensive environment
+of the latest Python packages, suited for almost all tasks. (h/t Chris Barker)
+
+##### Installation with __Anaconda__
+
+1. Download _Anaconda_: http://continuum.io/downloads
+    Use Python **2.7** (as opposed to **3.4**)
+	
+2. Open the "Anaconda Command Prompt" (Windows) or or just a
+    terminal window (OS X, Linux)
+
+3. Update conda and anaconda with the latest packages:
+    ~~~bash
+	conda update conda
+	conmda update anaconda
+	~~~
+	
+3. Install four additional packages:
+
+    ~~~bash
+	conda install basemap
+	conda install netCDF4
+	pip install urllib3
+	pip install python-magic
+	conda install shapely
+	pip install pyshp
+	pip install cartopy
+	pip install cdo
+	~~~
+
+4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
+`ipython notebook --pylab=inline` at the command prompt (OS X, Linux) and navigate to
+the exercises.
+
+**Have fun!**
+
+##### Installation for _real programmers_(TM) (UNIXy system such as Linux or OS X)
+
 execute the setup script:
 
 ~~~bash
@@ -116,26 +158,8 @@ Start the notebook:
 ipython notebook --pylab=inline
 ~~~
 
-Enjoy!
+**Enjoy!**
 
-**If you are stuck with Windows**,<br>
-or other problems with above method arise, or just to try it out,
-the easiest way is maybe to install a huge all-and-everything Python distribution, e.g., Anaconda:
-http://continuum.io/downloads
-
-Then open the "Anaconda Command Prompt" and install four additional
-packages:
-
-~~~bash
-pip install DateTime
-pip install urllib3
-pip install Cartopy
-pip install cdo
-~~~
-
-Launch the "Anaconda Ipython Notebook" and navigate to the exercises.
-
-Have fun!
 
 ## Feedback
 
