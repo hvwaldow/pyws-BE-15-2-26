@@ -121,9 +121,11 @@ Barker).
 	~~~
 
 4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
+
 ~~~bash
 ipython notebook --pylab=inline
 ~~~
+
 at the command prompt (OS X, Linux) and navigate to
 the exercises.
 
