@@ -120,7 +120,15 @@ Barker).
 	pip install cdo
 	~~~
 
-In case one of the `pip install` commands fails (because your machine
+4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
+    ~~~bash
+    ipython notebook --pylab=inline
+    ~~~
+    at the command prompt (OS X, Linux) and navigate to
+    the exercises.
+
+
+In case one of the `pip install` commands above fails (because your machine
 is not set up to do the necessary build), look for a binary
 distribution using binstar, e.g.
 
@@ -133,14 +141,8 @@ look. It contains around 100 packages contributed by the U.S. IOOS
 Integrated Ocean Observing System community. Not just for this
 tutorial, but also to see what other geoscientsits are using.
 
-4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
 
-~~~bash
-ipython notebook --pylab=inline
-~~~
 
-at the command prompt (OS X, Linux) and navigate to
-the exercises.
 
 **Have fun!**
 
