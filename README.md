@@ -85,7 +85,7 @@ you want (\<pyws-directory\>) in the following.
 
 **These recommendations were changed (2015-04-13).**
 
-Realizingthe difficulties that might arise due to interactions of system -
+Realizing the difficulties that might arise due to interactions of system -
 Python and workshop - Python -- even if using a _virtualenvironment_,
 **we now recommend for all OS (Windows, OS X, Linux) the _Anaconda_
 Python distribution.** Next to a quick setup to work with the tutorial
@@ -107,7 +107,7 @@ Barker).
 	conmda update anaconda
 	~~~
 	
-3. Install four additional packages:
+3. Install some additional packages:
 
     ~~~bash
 	conda install basemap
@@ -121,7 +121,10 @@ Barker).
 	~~~
 
 4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
-`ipython notebook --pylab=inline` at the command prompt (OS X, Linux) and navigate to
+~~~bash
+ipython notebook --pylab=inline
+~~~
+at the command prompt (OS X, Linux) and navigate to
 the exercises.
 
 **Have fun!**
