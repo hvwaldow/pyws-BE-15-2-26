@@ -129,7 +129,7 @@ binstar search cartopy
 ~~~
 
 The binstar channel https://conda.binstar.org/ioos is worth a closer
-look. It contains around 100 packages contributed by the U.S. IOOS®,
+look. It contains around 100 packages contributed by the U.S. IOOS &reg;
 Integrated Ocean Observing System community. Not just for this
 tutorial, but also to see what other geoscientsits are using.
 
@@ -144,7 +144,7 @@ the exercises.
 
 **Have fun!**
 
-##### b) Installation for _real programmers_(&#8482;), using a UNIXy system such as Linux or OS X
+##### b) Installation for _real programmers_&#8482;, using a UNIXy system such as Linux or OS X
 
 execute the setup script:
 
