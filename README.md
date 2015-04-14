@@ -120,6 +120,19 @@ Barker).
 	pip install cdo
 	~~~
 
+In case one of the `pip install` commands fails (because your machine
+is not set up to do the necessary build), look for a binary
+distribution using binstar, e.g.
+
+~~~bash
+binstar search cartopy
+~~~
+
+The binstar channel https://conda.binstar.org/ioos is worth a closer
+look. It contains around 100 packages contributed by the U.S. IOOS®,
+Integrated Ocean Observing System community. Not just for this
+tutorial, but also to see what other geoscientsits are using.
+
 4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
 
 ~~~bash
