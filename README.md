@@ -131,7 +131,7 @@ the exercises.
 
 **Have fun!**
 
-##### b) Installation for _real programmers_(TM)<br />for UNIXy system such as Linux or OS X
+##### b) Installation for _real programmers_(TM), using a UNIXy system such as Linux or OS X
 
 execute the setup script:
 
