@@ -93,7 +93,7 @@ material, this also provides you with a very comprehensive environment
 of the latest Python packages, suited for almost all tasks. (h/t Chris
 Barker).
 
-##### Installation with __Anaconda__
+##### a) Installation with __Anaconda__
 
 1. Download _Anaconda_: http://continuum.io/downloads
     Use Python **2.7** (as opposed to **3.4**)
@@ -131,7 +131,7 @@ the exercises.
 
 **Have fun!**
 
-##### Installation for _real programmers_(TM)<br />for UNIXy system such as Linux or OS X
+##### b) Installation for _real programmers_(TM)<br />for UNIXy system such as Linux or OS X
 
 execute the setup script:
 
