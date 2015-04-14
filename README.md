@@ -104,7 +104,7 @@ Barker).
 3. Update conda and anaconda with the latest packages:
     ~~~bash
 	conda update conda
-	conmda update anaconda
+	conda update anaconda
 	~~~
 	
 3. Install some additional packages:
@@ -120,6 +120,14 @@ Barker).
 	pip install cdo
 	~~~
 
+    In case one of the `pip install` commands above fails (because your machine
+	is not set up to do the necessary build), look for a binary
+	distribution using binstar, e.g.
+
+    ~~~bash
+	binstar search cartopy
+	~~~
+
 4. Launch the "Anaconda Ipython Notebook" (Windows), or simpy type
     ~~~bash
     ipython notebook --pylab=inline
@@ -128,21 +136,10 @@ Barker).
     the exercises.
 
 
-In case one of the `pip install` commands above fails (because your machine
-is not set up to do the necessary build), look for a binary
-distribution using binstar, e.g.
-
-~~~bash
-binstar search cartopy
-~~~
-
 The binstar channel https://conda.binstar.org/ioos is worth a closer
 look. It contains around 100 packages contributed by the U.S. IOOS
 Integrated Ocean Observing System community. Not just for this
 tutorial, but also to see what other geoscientists are using.
-
-
-
 
 **Have fun!**
 
