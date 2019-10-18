@@ -13,5 +13,5 @@ Shapely==1.5.6
 pyshp==1.2.1
 Pillow==2.7.0
 pandas==0.15.2
-requests==2.5.3
+requests==2.20.0
 cdo==1.2.5
