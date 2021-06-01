@@ -4,7 +4,7 @@ matplotlib==1.4.3
 basemap==1.0.7
 ipython[all]==2.4.1
 netCDF4==1.1.4.1
-urllib3==1.10.1
+urllib3==1.26.5
 python-magic==0.4.6
 DateTime==4.0.1
 Cython==0.22
