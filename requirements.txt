@@ -1,4 +1,4 @@
-numpy==1.9.1
+numpy==1.22.0
 scipy==0.15.1
 matplotlib==1.4.3
 basemap==1.0.7
